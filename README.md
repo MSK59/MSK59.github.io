@@ -4,7 +4,6 @@ This is the official GITHUB website for Muhammad Saad Khalid. I am currently a s
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/MSK59/MSK59.github.io/blob/main/Portrait.jpg">
 </p>
-[Portrait of Muhammad Saad Khalid](https://github.com/MSK59/MSK59.github.io/blob/main/Portrait.jpg)
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammad-khalid-58bbb3281/)
 
