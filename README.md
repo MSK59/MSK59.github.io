@@ -11,6 +11,8 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammad-khalid-58bbb3281/)
 
 In this Github, there are two primary projects, a gmail automation project and a COVID Data Analysis project. Contributions have been made to a mosaic and to a course file as part of CUNY Tech Prep and to a research quantum machine learning as part of a QAO REU hosted by the Univeristy of Tennessee.
 
+Github Profile: [Github](https://github.com/MSK59)
+
 COVID Analysis Project: [COVID_Analysis](https://github.com/MSK59/COVIDAnalysis) <br />
 
 Gmail Summary Automation: [Gmail_Summary_Automation](https://github.com/MSK59/Gmail_Summary_Automation) <br />
