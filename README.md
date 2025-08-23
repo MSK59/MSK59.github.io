@@ -1,7 +1,10 @@
 # MSK59.github.io
 This is the official GITHUB website for Muhammad Saad Khalid. I am currently a student at Baruch College. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
 
-![Portrait of Muhammad Saad Khalid](https://github.com/MSK59/MSK59.github.io/blob/main/Portrait.jpg)
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/MSK59/MSK59.github.io/blob/main/Portrait.jpg">
+</p>
+[Portrait of Muhammad Saad Khalid](https://github.com/MSK59/MSK59.github.io/blob/main/Portrait.jpg)
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammad-khalid-58bbb3281/)
 
