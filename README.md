@@ -1,5 +1,5 @@
 # MSK59.github.io
-This is the official GITHUB website for Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
+This is the official Github website for Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
 
 <p align="center" width="100%">
     <img width="33%" src="https://raw.githubusercontent.com/MSK59/MSK59.github.io/refs/heads/main/Portrait.jpg">
