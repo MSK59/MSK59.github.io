@@ -85,6 +85,6 @@ This is the official website of Muhammad Saad Khalid. I am currently a student a
 **CUNY Baruch College** - B.S Computer Science (December 2026); 3.92 GPA
 
 # Contact Me
-**Email**-<a href="mailto:muhammadsk123456@gmail.com">muhammadsk123456@gmail.com</a>
+**Email**: <a href="mailto:muhammadsk123456@gmail.com">muhammadsk123456@gmail.com</a>
 
-**LinkedIn**-[LinkedIn](https://www.linkedin.com/in/muhammad-khalid-58bbb3281/)
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/muhammad-khalid-58bbb3281/)
