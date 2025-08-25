@@ -11,13 +11,13 @@ title: Muhammad Saad Khalid
 
 **Quick Links**:
   
-- [Resume](https://github.com/MSK59/MSK59.github.io/blob/main/Muhammad%20Khalid%20(AI)%20D26%20Resume.pdf)    - [Skills](#Skills)
+- [Resume](https://github.com/MSK59/MSK59.github.io/blob/main/Muhammad%20Khalid%20(AI)%20D26%20Resume.pdf)          - [About](#About)
 
-- [LinkedIn](https://www.linkedin.com/in/muhammad-khalid-58bbb3281/)    - [Experience](#Experience)
+- [Skills](#Skills)          - [Experience](#Experience)
 
-- [Github](https://github.com/MSK59)    - [Projects](#Projects)
+- [Github](https://github.com/MSK59)          - [Projects](#Projects)
 
-- [Education](#Education)    - [Contacts](#Contact Me)
+- [Education](#Education)          - [Contacts](#Contacts)
 
 # About
 This is the official Github website for Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
@@ -76,6 +76,7 @@ This is the official Github website for Muhammad Saad Khalid. I am currently a s
 # Education
 **CUNY Baruch College** - B.S Computer Science (December 2026); 3.92 GPA
 
-# Contact Me
+# Contacts
 **Email**-<a href="mailto:muhammadsk123456@gmail.com">muhammadsk123456@gmail.com</a>
 
+**LinkedIn**-[LinkedIn](https://www.linkedin.com/in/muhammad-khalid-58bbb3281/)
