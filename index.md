@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-## Muhammad Saad Khalid
-# About
+## About
 This is the official Github website for Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
 
 <p align="center" width="100%">
@@ -47,7 +46,7 @@ This is the official Github website for Muhammad Saad Khalid. I am currently a s
 
 - Participating in weekly courses and learning industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, ML techniques, and big data.
 
-**Research at Baruch Mellem Lab (Expected: September 2025 - May 2026)**
+**Researcher at Baruch Mellem Lab (Expected: September 2025 - May 2026)**
 
 **MTA IT Disaster Recovery Fellow (Expected: October 2025 - TBD)**
 
