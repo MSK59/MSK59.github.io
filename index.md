@@ -77,6 +77,6 @@ This is the official Github website for Muhammad Saad Khalid. I am currently a s
 # Education
 **CUNY Baruch College** - B.S Computer Science (December 2026); 3.92 GPA
 
-## Contact Me
+# Contact Me
 **Email**-<a href="mailto:muhammadsk123456@gmail.com">muhammadsk123456@gmail.com</a>
 
