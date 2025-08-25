@@ -2,23 +2,25 @@
 layout: default
 title: Muhammad Saad Khalid's Official Website
 ---
-
-## About
-This is the official Github website for Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
-
+# Muhammad Saad Khalid's Portfolio
 <p align="center" width="100%"> 
   <img width="33%" 
        src="https://raw.githubusercontent.com/MSK59/MSK59.github.io/refs/heads/main/Portrait.jpg"
        style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;"> 
 </p>
 
-**Resume**: [Resume](https://github.com/MSK59/MSK59.github.io/blob/main/Muhammad%20Khalid%20(AI)%20D26%20Resume.pdf)
+**Quick Links**:
+  
+- **Resume**: [Resume](https://github.com/MSK59/MSK59.github.io/blob/main/Muhammad%20Khalid%20(AI)%20D26%20Resume.pdf)
 
-**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/muhammad-khalid-58bbb3281/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/muhammad-khalid-58bbb3281/)
 
-**Github**: [Github](https://github.com/MSK59)
+- **Github**: [Github](https://github.com/MSK59)
 
-## Skills
+# About
+This is the official Github website for Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
+
+# Skills
 **Programming Languages**: Python, SQL, VBA, C++
 
 **Libraries**: Pandas, NumPy, SciPy, Scikit-Learn, Matplotlib, SeaBorn, PyTorch, TensorFlow, PennyLane
@@ -29,7 +31,7 @@ This is the official Github website for Muhammad Saad Khalid. I am currently a s
 
 **Other Tools**: Microsoft Office
 
-## Experience
+# Experience
 **Researcher at University of Tennessee** 
 
 - Implemented Quantum Neural Networks (PennyLane, TensorFlow) and classical Neural Networks (PyTorch) to predict optimal power flow solutions for complex energy grid scenarios, achieving a classical model MSE of 0.001.
@@ -50,11 +52,19 @@ This is the official Github website for Muhammad Saad Khalid. I am currently a s
 
 - Participating in weekly courses and learning industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, ML techniques, and big data.
 
+**Baruch Technology Development Leadership Program (TLDP) Fellow (Current)**
+
+- Selected to participate in a year-long program to hone soft and hard skills biweekly with professionals
+
+- Attaining technical knowledge and skills from Amazon, Google, and Microsoft professionals such as Power BI, Big Data, VCS, SQL, and Python
+
+- Attending weekly professional development and career workshops to develop interpersonal and leadership skills.
+
 **Researcher at Baruch Mellem Lab (Expected: September 2025 - May 2026)**
 
 **MTA IT Disaster Recovery Fellow (Expected: October 2025 - TBD)**
 
-## Projects
+# Projects
 **COVID Analysis Project**: In this project I analyzed the early global situtation regarding COVID-19. I analyzed how the world collectively responded to it and tried to understand how successful the United States policies were in relation to demographically similar countries. 
 [COVID Analysis](https://github.com/MSK59/COVIDAnalysis) <br />
 
@@ -64,7 +74,7 @@ This is the official Github website for Muhammad Saad Khalid. I am currently a s
 **Quantum Machine Learning REU**: In electrical power systems, AC Power Flow (ACPF) equations are used to model the flow of electricity across bus-systems and manage the performance of power grids. They present significant computational challenges due to their nonlinear, nonconvex constraints, making real-time optimization difficult. This study proposes benchmarking Quantum Neural Networks (QNNs) against Classical Feed-Forward Neural Networks for approximating ACPF solutions across multi-bus system configurations. The Classical Neural network takes the active (P) and reactive (Q) power as inputs and outputs the voltage magnitude (V) and angle (theta). Our QNN encodes P and Q values onto individual qubits through angle embeddings. For an N-bus system, it extracts both V and theta predictions per bus from Pauli X and Z measurements on a single qubit, making it an N-qubit QNN. We evaluate both neural networks with the same number of neurons (N), over different bus configurations with an equal number of layers for both networks. The quantum neural network performed up to twice as well as the Classical Neural Network when measuring Mean-Squared Error, suggesting potential resource advantages when scaled.
 [Quantum Machine learning](https://github.com/Vilcius/qnn_power_flow)
 
-## Education
+# Education
 **CUNY Baruch College** - B.S Computer Science (December 2026); 3.92 GPA
 
 ## Contact Me
