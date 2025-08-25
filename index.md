@@ -11,17 +11,17 @@ title: Muhammad Saad Khalid
 
 **Quick Links**:
   
-- [About](#About)
+- [About](#about)
 
-- [Skills](#Skills)
+- [Skills](#skills)
   
-- [Experience](#Experience)
+- [Experience](#experience)
  
-- [Projects](#Projects)
+- [Projects](#projects)
 
-- [Education](#Education)
+- [Education](#education)
 
-- [Contacts](#Contacts)
+- [Contact Me](#contact-me)
 
 # About
 This is the official Github website for Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
@@ -84,7 +84,7 @@ This is the official Github website for Muhammad Saad Khalid. I am currently a s
 # Education
 **CUNY Baruch College** - B.S Computer Science (December 2026); 3.92 GPA
 
-# Contacts
+# Contact Me
 **Email**-<a href="mailto:muhammadsk123456@gmail.com">muhammadsk123456@gmail.com</a>
 
 **LinkedIn**-[LinkedIn](https://www.linkedin.com/in/muhammad-khalid-58bbb3281/)
