@@ -1,12 +1,15 @@
 ---
 layout: default
+title: Muhammad Saad Khalid's Official Website
 ---
 
 ## About
 This is the official Github website for Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
 
-<p align="center" width="100%">
-    <img width="33%" src="https://raw.githubusercontent.com/MSK59/MSK59.github.io/refs/heads/main/Portrait.jpg">
+<p align="center" width="100%"> 
+  <img width="33%" 
+       src="https://raw.githubusercontent.com/MSK59/MSK59.github.io/refs/heads/main/Portrait.jpg"
+       style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;"> 
 </p>
 
 **Resume**: [Resume](https://github.com/MSK59/MSK59.github.io/blob/main/Muhammad%20Khalid%20(AI)%20D26%20Resume.pdf)
