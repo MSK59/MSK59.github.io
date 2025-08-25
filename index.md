@@ -11,13 +11,13 @@ title: Muhammad Saad Khalid
 
 **Quick Links**:
   
-- [Resume](https://github.com/MSK59/MSK59.github.io/blob/main/Muhammad%20Khalid%20(AI)%20D26%20Resume.pdf)&nbsp[About](#About)
+- [Resume](https://github.com/MSK59/MSK59.github.io/blob/main/Muhammad%20Khalid%20(AI)%20D26%20Resume.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About](#About)
 
-- [Skills](#Skills)&nbsp[Experience](#Experience)
+- [Skills](#Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Experience](#Experience)
 
-- [Github](https://github.com/MSK59)&nbsp[Projects](#Projects)
+- [Github](https://github.com/MSK59)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](#Projects)
 
-- [Education](#Education)&nbsp[Contacts](#Contacts)
+- [Education](#Education)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Contacts](#Contacts)
 
 # About
 This is the official Github website for Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
