@@ -6,7 +6,7 @@ title: Muhammad Saad Khalid's Official Website
 <p align="center" width="100%"> 
   <img width="33%" 
        src="https://raw.githubusercontent.com/MSK59/MSK59.github.io/refs/heads/main/Portrait.jpg"
-       style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;"> 
+       style="width: 300px; height: 300px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;"> 
 </p>
 
 **Quick Links**:
