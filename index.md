@@ -24,7 +24,7 @@ title: Muhammad Saad Khalid
 - [Contact Me](#contact-me)
 
 # About
-This is the official website of Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. I enjoy using data science to tackle challening problems, whether that be optimizing business workflow or using data analysis to further research endeavors. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
+This is the official website of Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. I enjoy tackling challening data-related problems, whether that be using machine learning to optimize business workflow or using data analysis to further research endeavors. A fun fact about me is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
 
 [Resume](https://github.com/MSK59/MSK59.github.io/blob/main/Muhammad%20Khalid%20(AI)%20D26%20Resume.pdf)
   
