@@ -28,23 +28,23 @@ This is the official Github website for Muhammad Saad Khalid. I am currently a s
 # Experience
 **Researcher at University of Tennessee** 
 
-● Implemented Quantum Neural Networks (PennyLane, TensorFlow) and classical Neural Networks (PyTorch) to predict optimal power flow solutions for complex energy grid scenarios, achieving a classical model MSE of 0.001.
+- Implemented Quantum Neural Networks (PennyLane, TensorFlow) and classical Neural Networks (PyTorch) to predict optimal power flow solutions for complex energy grid scenarios, achieving a classical model MSE of 0.001.
 
-● Optimized quantum neural network architecture through angle embedding and output measurement design, achieving 50% reduction in computational resource requirements.
+- Optimized quantum neural network architecture through angle embedding and output measurement design, achieving 50% reduction in computational resource requirements.
 
-● Evaluated model scalability and computational efficiency across various power system sizes, modeling large scale city energy systems from 3 - 14 sized graphs, demonstrating robust performance for increasing grid complexity.
+- Evaluated model scalability and computational efficiency across various power system sizes, modeling large scale city energy systems from 3 - 14 sized graphs, demonstrating robust performance for increasing grid complexity.
 
 **College Tutor**                  
 
-● Simplified complex concepts in computer organization, data representation, and Python algorithm development, providing tailored 1:1 or 1:2 tutoring.
+- Simplified complex concepts in computer organization, data representation, and Python algorithm development, providing tailored 1:1 or 1:2 tutoring.
 
-● Facilitated weekly hands-on sessions for 10-15 students over a semester, solidifying understanding of algebraic concepts and enhancing problem-solving skills.
+- Facilitated weekly hands-on sessions for 10-15 students over a semester, solidifying understanding of algebraic concepts and enhancing problem-solving skills.
 
 **CUNY Tech Prep Fellow (Current)** 
 
-● Selected for competitive data science fellowship with students from across 11 CUNY senior colleges where fellows create technical projects using tools such as Python, Jupyter Notebook, Pandas, Numpy, Scikit-learn, and SQL.
+- Selected for competitive data science fellowship with students from across 11 CUNY senior colleges where fellows create technical projects using tools such as Python, Jupyter Notebook, Pandas, Numpy, Scikit-learn, and SQL.
 
-● Participating in weekly courses and learning industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, ML techniques, and big data.
+- Participating in weekly courses and learning industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, ML techniques, and big data.
 
 **Research at Baruch Mellem Lab (Expected: September 2025 - May 2026)**
 
