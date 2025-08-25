@@ -1,10 +1,10 @@
 # The theme setting for GitHub Pages
 remote_theme: pages-themes/cayman@v0.2.0
 
-# Plugins for Jekyll
+# Plugins for Jekyll, indented correctly
 plugins:
   - jekyll-remote-theme
-
+  
 # Site variables
 title: Muhammad Saad Khalid's Official Website
-description: Bookmark this to keep an eye on my project updates!
+description: Empty Description
