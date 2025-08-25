@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Muhammad Saad Khalid's Official Website
+title: Muhammad Saad Khalid
 ---
 # Muhammad Saad Khalid's Portfolio
 <p align="center" width="100%"> 
