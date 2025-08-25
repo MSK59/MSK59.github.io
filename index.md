@@ -11,11 +11,11 @@ title: Muhammad Saad Khalid
 
 **Quick Links**:
   
-- [Resume](https://github.com/MSK59/MSK59.github.io/blob/main/Muhammad%20Khalid%20(AI)%20D26%20Resume.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About](#About)
+- [Resume](https://github.com/MSK59/MSK59.github.io/blob/main/Muhammad%20Khalid%20(AI)%20D26%20Resume.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About](#About)
 
-- [Skills](#Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Experience](#Experience)
+- [Skills](#Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Experience](#Experience)
 
-- [Github](https://github.com/MSK59)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](#Projects)
+- [Github](https://github.com/MSK59)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](#Projects)
 
 - [Education](#Education)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Contacts](#Contacts)
 
