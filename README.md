@@ -13,7 +13,7 @@ Github Profile: [Github](https://github.com/MSK59)
 
 Within the Github file, there are two primary projects, a gmail automation project and a COVID Data Analysis project. Additionally contributions have been made to a research quantum machine learning as part of a QAO REU hosted by the Univeristy of Tennessee.
 
-COVID Analysis Project: In this project I analyzed the early global situtation regarding COVID-19. I analyzed how the world collectively responded to it and tried to understand how successful the United States policies were in relation to demographically similar countries. 
+<b>COVID Analysis Project</b>: In this project I analyzed the early global situtation regarding COVID-19. I analyzed how the world collectively responded to it and tried to understand how successful the United States policies were in relation to demographically similar countries. 
 [COVID Analysis](https://github.com/MSK59/COVIDAnalysis) <br />
 
 Gmail Summary Automation: In this project I strived to automate a mundane and repetitive task that most people have to deal with on a daily purpose, reading emails. Using Gmails API I got permission to access and read emails. I dissected the emails and put them as part of a prompt into Grok AI to summarize and grade the importance of. The results were outputted into a CSV.
