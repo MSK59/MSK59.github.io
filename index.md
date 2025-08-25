@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Muhammad Saad Khalid
 This is the official Github website for Muhammad Saad Khalid. I am currently a student at Baruch College, looking to further my knowledge and skill-set in my path to becoming a data scientist. A fun fact about myself is that I enjoy exercising, whether that be through sports, weight-training, or cardio.
 
