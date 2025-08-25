@@ -62,4 +62,5 @@ engineering, data collection and processing, statistical modeling, data visualiz
 **CUNY Baruch College** - B.S Computer Science (December 2026); 3.92 GPA
 
 # Contact Me
-**Email**-[muhammadsk123456@gmail.com](muhammadsk123456@gmail.com)
+**Email**-<a href="mailto:muhammadsk123456@gmail.com">muhammadsk123456@gmail.com</a>
+
